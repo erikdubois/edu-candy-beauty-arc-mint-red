@@ -1,4 +1,4 @@
-# CLAUDE.md — edu-neo-candy-arc-mint-red
+# CLAUDE.md — kiro-neo-candy-arc-mint-red
 
 ## Project overview
 
